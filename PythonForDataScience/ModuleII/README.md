@@ -20,3 +20,9 @@ In this lesson you will learn about:
 * List Content
 * List Operations
 * Copy and Clone List
+
+### Sets
+* Set Content
+* Set Operations
+* Sets Logic Operations
+* Quiz on Sets
