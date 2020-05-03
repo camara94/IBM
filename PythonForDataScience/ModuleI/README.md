@@ -1,0 +1,7 @@
+# Module I
+## LEARNING OBJECTIVES
+In this lesson you will learn the basics of Python and you will write your first Python program:
+
+* Types
+* Expressions and Variables
+* String Operations
