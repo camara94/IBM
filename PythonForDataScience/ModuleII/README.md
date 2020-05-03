@@ -26,3 +26,8 @@ In this lesson you will learn about:
 * Set Operations
 * Sets Logic Operations
 * Quiz on Sets
+
+### Dictionaries
+* What are Dictionaries?
+* Keys
+* Quiz on Dictionaries
